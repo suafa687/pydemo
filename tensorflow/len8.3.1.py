@@ -45,3 +45,4 @@ print("-"*20)
 # 张量分解
 t20, t21 = tf.unstack(t19, axis=2)
 print(t20, t21)
+
